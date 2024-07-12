@@ -1,0 +1,17 @@
+
+h3{
+    color: white;
+    background-color: rgb(180, 50, 10);
+}
+div{
+    background-color: rgb(188, 228, 215);
+}
+
+body{
+    background-color: rgb(205, 132, 241);
+}
+table{
+    background-color: rgb(181, 213, 226);
+    color: black;
+    border: solid;
+}
